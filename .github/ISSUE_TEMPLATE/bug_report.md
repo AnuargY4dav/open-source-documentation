@@ -1,4 +1,10 @@
-# Bug Report
+---
+name: Bug Report
+about: Report a problem or documentation issue
+title: "[Bug]: "
+labels: ""
+assignees: ""
+---
 
 ## Description
 
